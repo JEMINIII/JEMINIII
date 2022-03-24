@@ -4,6 +4,10 @@
 
 - 🔭 I have completed M.sc in statistics 
 
+- python | Postgre SQL | R |**
+-   |
+- Pandas | Numpy | Matplotlib | SKlearn | Seaborne |**
+
 - 🤔 I’m looking for some internship opertunities to grow my skills.. 
  
 - 📫 How to reach me:linledin profile https://www.linkedin.com/in/jemini-karathiya-214150190
