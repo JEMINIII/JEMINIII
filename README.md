@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Machine learning and Deep learning concepts..
+
+- 🔭 I have completed M.sc in statistics 
+
+- 🤔 I’m looking for some internship opertunities to grow my skills.. 
+ 
+- 📫 How to reach me:linledin profile https://www.linkedin.com/in/jemini-karathiya-214150190
 <!--
 **JEMINIII/JEMINIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
