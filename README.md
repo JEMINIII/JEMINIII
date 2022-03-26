@@ -4,10 +4,6 @@
 
 - 🔭 I have completed M.sc in statistics 
 
-- python | Postgre SQL | R | *
-
-- 💰 I am not currently a data professional, but I want to become one
-
 - 🤔 I’m looking for some internship opertunities to grow my skills.. 
  
 - 📫 How to reach me:linledin profile https://www.linkedin.com/in/jemini-karathiya-214150190
