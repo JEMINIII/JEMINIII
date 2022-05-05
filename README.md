@@ -4,7 +4,7 @@
 
 - 🔭 I have completed M.sc in statistics 
 
-- 🤔 I’m looking for some internship opertunities to grow my skills.. 
+- 🤔 Data Analyst 
  
 - 📫 How to reach me:linledin profile https://www.linkedin.com/in/jemini-karathiya-214150190
 <!--
